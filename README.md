@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
-# Servers:
+## Server for this app:
 
 Github Link: https://github.com/coderss07/Infinite-Scroll-App-Server
 
