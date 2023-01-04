@@ -9,7 +9,17 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
+
+#Servers:
+
+Link: 
+
+Open the github link, in the project directory, you can run:
+
+### `node server.js`
+
+Run the server in developement mode on [http://localhost:8080]
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
